@@ -1,4 +1,4 @@
-# React JS Portfolio Website
+# React JS E-Commerce-Shopping Website
 
 [🔗Live Demo🔗](https://e-commerce-website-gamma-gilt.vercel.app/)
 
