@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://e-commerce-website-gamma-gilt.vercel.app/)
 
-![Protfolio Website](public/images/ecommerce.png)
+![Protfolio Website](src/assets/images/ecommerce.png)
 
 <div align="center">
 
